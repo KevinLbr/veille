@@ -15,10 +15,8 @@
 - Grafikart
 
 # Livres
-- 18 minutes pour etre efficace
 - Le guide du télé-travailleur épanoui
-- Echappez-vous du labyrinthe de la procrastination
-- Clean Code
+- Clean Code de Robert C.Martin
 - Software Craft
 - Les pratiques de l'équipe Agile (2eme édition)
 - L’intelligence artificielle en pratique avec python
